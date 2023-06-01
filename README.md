@@ -1,7 +1,11 @@
 # TP4DPBO2023C2
 Tugas Praktikum 4 DPBO 
-## janji
+# janji
 Saya [Elsa Nabiilah] [2108805] mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+# Design Database
+<img width="319" alt="image" src="https://github.com/elsaa08/TP4DPBO2023C2/assets/101001227/8a525e35-7742-462c-ac1d-e7b0f76ad98a">
+
 
 # dekripsi tugas 
 Download Kode PHP pada link berikut ini TP MVC.
